@@ -28,11 +28,6 @@ public class Day1_Learning {
 	            
 	            System.out.println("Git Change");//Change 
 	            System.out.println("Git Change1");//Chnage1
-	            
-	            
-	            System.out.println("Develop branch change");//Chnage1
-	            System.out.println("Develop branch changesss");//Chnage2
-	            
 	        }
 	       
 	    
