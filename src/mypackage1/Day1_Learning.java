@@ -25,6 +25,9 @@ public class Day1_Learning {
 	            System.out.println("Test Passed!");
 	        } else {
 	            System.out.println("Test Failed");
+	            
+	            System.out.println("Git Change");//Change 
+	            System.out.println("Git Change1");//Chnage1
 	        }
 	       
 	    
